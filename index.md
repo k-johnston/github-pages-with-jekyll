@@ -1,3 +1,3 @@
-# Welcome to my blog
+# k-johnston
 
-I'm glad you are here. I plan to talk about ...
+A work in progress
